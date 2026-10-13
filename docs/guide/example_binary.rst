@@ -42,7 +42,7 @@ Breaking this command down:
 
 #. :vlopt:`-Wall` so Verilator has stronger lint warnings enabled.
 
-#. An finally, :command:`our.v`, which is our SystemVerilog design file.
+#. And finally, :command:`our.v`, which is our SystemVerilog design file.
 
 And now we run it:
 
